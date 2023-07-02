@@ -1,0 +1,160 @@
+{
+  "data": [
+    {
+      "id": "1234567890",
+      "name": "My Page",
+      "reach": {
+        "total": 10000,
+        "organic": 5000,
+        "paid": 5000
+      },
+      "engagement": {
+        "total": 1000,
+        "likes": 500,
+        "comments": 250,
+        "shares": 250
+      },
+      "growth": {
+        "new_likes": 100,
+        "new_followers": 50
+      },
+      "audience": {
+        "age": {
+          "18-24": {
+            "percentage": 30,
+            "countries": ["United States", "Canada", "United Kingdom"]
+          },
+          "25-34": {
+            "percentage": 30,
+            "countries": ["United States", "Canada", "Australia"]
+          },
+          "35-44": {
+            "percentage": 20,
+            "countries": [
+              "United States",
+              "Canada",
+              "United Kingdom",
+              "Australia"
+            ]
+          },
+          "45-54": {
+            "percentage": 10,
+            "countries": [
+              "United States",
+              "Canada",
+              "United Kingdom",
+              "Australia",
+              "New Zealand"
+            ]
+          },
+          "55-64": {
+            "percentage": 5,
+            "countries": [
+              "United States",
+              "Canada",
+              "United Kingdom",
+              "Australia",
+              "New Zealand",
+              "Germany",
+              "France"
+            ]
+          },
+          "65+": {
+            "percentage": 5,
+            "countries": [
+              "United States",
+              "Canada",
+              "United Kingdom",
+              "Australia",
+              "New Zealand",
+              "Germany",
+              "France",
+              "Italy"
+            ]
+          }
+        },
+        "gender": {
+          "male": {
+            "percentage": 50,
+            "countries": [
+              "United States",
+              "Canada",
+              "United Kingdom",
+              "Australia",
+              "New Zealand",
+              "Germany",
+              "France",
+              "Italy"
+            ]
+          },
+          "female": {
+            "percentage": 50,
+            "countries": [
+              "United States",
+              "Canada",
+              "United Kingdom",
+              "Australia",
+              "New Zealand",
+              "Germany",
+              "France",
+              "Italy"
+            ]
+          }
+        },
+        "location": {
+          "United States": {
+            "percentage": 50,
+            "time_of_day": {
+              "morning": {
+                "percentage": 25
+              },
+              "afternoon": {
+                "percentage": 25
+              },
+              "evening": {
+                "percentage": 25
+              },
+              "night": {
+                "percentage": 25
+              }
+            }
+          },
+          "Canada": {
+            "percentage": 25,
+            "time_of_day": {
+              "morning": {
+                "percentage": 30
+              },
+              "afternoon": {
+                "percentage": 25
+              },
+              "evening": {
+                "percentage": 20
+              },
+              "night": {
+                "percentage": 25
+              }
+            }
+          },
+          "United Kingdom": {
+            "percentage": 10,
+            "time_of_day": {
+              "morning": {
+                "percentage": 35
+              },
+              "afternoon": {
+                "percentage": 20
+              },
+              "evening": {
+                "percentage": 20
+              },
+              "night": {
+                "percentage": 25
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}
